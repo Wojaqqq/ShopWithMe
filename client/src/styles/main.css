@@ -1,0 +1,22 @@
+.containerClass{
+    margin-top: 50px;
+}
+.heading{
+    font-size: 3em;
+}
+.formClass{
+    margin:auto;
+    width: 80%;
+}
+
+.container{
+
+}
+
+.singleShoppingListClass{
+    border:2px solid black;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    background-color: #d5e7ff;
+}
