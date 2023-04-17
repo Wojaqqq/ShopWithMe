@@ -1,3 +1,3 @@
 # ShopWithMe
 
-Simple shopping web application based on Ssali Jonathan's youtube tutorial
+Simple shopping web application.
